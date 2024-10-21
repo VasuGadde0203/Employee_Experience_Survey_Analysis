@@ -63,9 +63,9 @@ To replicate the analysis on your machine:
    git clone https://github.com/VasuGadde0203/employee-survey-analysis.git
 
 ## Dependencies
-**Python 3.x**
-**Pandas**
-**NumPy**
-**SciPy**
-**Matplotlib/Seaborn for visualizations**
-**Jupyter Notebook (optional)**
+- **Python 3.x**
+- **Pandas**
+- **NumPy**
+- **SciPy**
+- **Matplotlib/Seaborn for visualizations**
+- **Jupyter Notebook (optional)**
